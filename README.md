@@ -1,6 +1,6 @@
 # Battleship
 
-<iframe src="https://player.vimeo.com/video/292203343" width="100%" height="480" frameborder="0" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/76491823/217725315-c9cf9072-cacf-4184-9da6-07fea81720c1.mp4  
 
 This project consists of three parts. Video walkthroughs follow in the next
 sections. After completing each part, watch the corresponding walkthrough before
